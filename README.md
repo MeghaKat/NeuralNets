@@ -1,4 +1,4 @@
-# NeuralNets
+# Classifying Handwritten Digits (MNIST dataset) using Machine Learning
 Investigate Classification Performance of neural nets
 # NueralNets using Numpy
 ## Objective
