@@ -1,6 +1,6 @@
 # Classifying Handwritten Digits (MNIST dataset) using Machine Learning
 Investigate Classification Performance of neural nets
-# NueralNets using Numpy
+# NeuralNets using Numpy
 ## Objective
 Implement and train a neural network to classify the letters using Numpy and Gradient Descent with Momentum. The network implemented
 has the following structure:
